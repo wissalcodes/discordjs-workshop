@@ -1,0 +1,19 @@
+{
+  "choices": {
+    "gaming": [
+      "Among us gaming session",
+      "Pubg gaming session",
+      "League Of Legends ARAM"
+    ],
+    "cooking": [
+      "Pasta making session",
+      "Sushi rolling session",
+      "Baking cookies"
+    ],
+    "reading": [
+      "Mystery novel discussion",
+      "Poetry reading",
+      "Sci-fi book club"
+    ]
+  }
+}
